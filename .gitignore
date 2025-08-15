@@ -1,0 +1,4 @@
+venv
+.vscode
+songFiles
+client_secret*
